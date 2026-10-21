@@ -1,5 +1,10 @@
 # Changelog - Port Log - Grupo 07
 
+[Ejercicio 04]
+- Clase `PortAnalyzer` que encapsula una copia privada de las infracciones y valida las columnas requeridas.
+- Métodos `top_infractores`, `infracciones_por_turno`, `exceso_promedio`, `exceso_promedio_tolerancia`, `infracciones_por_muelle` e `infractores_por_tipo_carga`.
+- Métodos auxiliares para los gráficos y las preguntas de negocio.
+
 [Ejercicio 03]
 - Fechas en formato YYYY-MM-DD; las inválidas se completan con 1900-01-01.
 - Horas en formato de 24 hs; las inválidas se completan con 00:00 y se marcan en columnas `*_valida`.
