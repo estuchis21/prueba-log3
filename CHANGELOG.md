@@ -39,7 +39,7 @@
 - Completitud por columna validando formato además de nulos.
 
 [Ejercicio 01]
-- Configuración de git sobre la rama `Sprint_1`.
-- Creación de la estructura de directorios `port_log` con `.gitkeep`.
-- README.md con el sprint, objetivo, introducción y contexto.
-- CHANGELOG.md ordenado del último cambio al primero.
+- Creación y checkout de rama `Sprint_2` a partir de `Sprint_1`.
+- Descarga y descompresión de imágenes en `port_log/data/raw/imgs`.
+- Verificación de accesibilidad de archivos base del Sprint 1.
+- Actualización de README.md con contexto y objetivos de Sprint 2.
