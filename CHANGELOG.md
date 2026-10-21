@@ -32,11 +32,11 @@
 - Dataset limpio en `data/interim` y resumen en `reports/summary_sprint1.csv`.
 
 [Ejercicio 02]
-- Descarga del dataset crudo en `port_log/data/raw/port_movements.csv`.
-- Visualización de las primeras y últimas filas.
-- Comparación de tipos inferidos contra el esquema esperado.
-- Conteo de valores nulos ordenado de mayor a menor.
-- Completitud por columna validando formato además de nulos.
+- Listado y cálculo de pesos en KB de imágenes.
+- Separación en subgrupos 'plates' y 'completes'.
+- Generación del archivo `port_log/data/interim/group_images.json`.
+- Cálculo de métricas promedio de resolución, área y peso.
+- Implementación y prueba de la función `mostrar_muestra`.
 
 [Ejercicio 01]
 - Creación y checkout de rama `Sprint_2` a partir de `Sprint_1`.
