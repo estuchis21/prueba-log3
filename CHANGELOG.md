@@ -18,9 +18,14 @@
 - Infracciones con fecha válida vs inválida (barras).
 
 [Ejercicio 04]
-- Clase `PortAnalyzer` que encapsula una copia privada de las infracciones y valida las columnas requeridas.
-- Métodos `top_infractores`, `infracciones_por_turno`, `exceso_promedio`, `exceso_promedio_tolerancia`, `infracciones_por_muelle` e `infractores_por_tipo_carga`.
-- Métodos auxiliares para los gráficos y las preguntas de negocio.
+- Extracción de texto de imágenes con EasyOCR.
+- Actualización de matricula_imagen en group_images.json.
+- Normalización de matrículas y comparación por posición.
+- Aplicación de un umbral de coincidencia del 75%.
+- Detección de empates entre matrículas diferentes.
+- Selección de la imagen con mayor ratio por movimiento.
+- Generación de port_movements_image.csv.
+- Verificación de columnas, cantidad de registros y ratios.
 
 [Ejercicio 03]
 - Conversión a escala de grises en `port_log/data/interim/imgs/03_01_gray`.
