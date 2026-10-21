@@ -1,5 +1,13 @@
 # Changelog - Port Log - Grupo 07
 
+[Ejercicio 05]
+- Top 10 de matrículas reincidentes (barras verticales).
+- Infracciones por turno del día (torta).
+- Infracciones por mes (barras horizontales).
+- Histograma del exceso de velocidad real con KDE.
+- Exceso promedio por muelle (barras horizontales).
+- Infracciones con fecha válida vs inválida (barras).
+
 [Ejercicio 04]
 - Clase `PortAnalyzer` que encapsula una copia privada de las infracciones y valida las columnas requeridas.
 - Métodos `top_infractores`, `infracciones_por_turno`, `exceso_promedio`, `exceso_promedio_tolerancia`, `infracciones_por_muelle` e `infractores_por_tipo_carga`.
