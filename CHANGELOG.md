@@ -1,5 +1,11 @@
 # Changelog - Port Log - Grupo 07
 
+[Ejercicio 06]
+- Porcentaje de infracciones con fecha inválida y con hora inválida.
+- Tipo de carga más frecuente entre las infracciones.
+- Origen más frecuente entre los buques infractores.
+- Duración promedio de estadía de los buques infractores.
+
 [Ejercicio 05]
 - Top 10 de matrículas reincidentes (barras verticales).
 - Infracciones por turno del día (torta).
