@@ -10,12 +10,12 @@
 - Duración promedio de estadía de los buques infractores.
 
 [Ejercicio 05]
-- Top 10 de matrículas reincidentes (barras verticales).
-- Infracciones por turno del día (torta).
-- Infracciones por mes (barras horizontales).
-- Histograma del exceso de velocidad real con KDE.
-- Exceso promedio por muelle (barras horizontales).
-- Infracciones con fecha válida vs inválida (barras).
+- Conteo de infracciones con y sin imagen asociada.
+- Conteo de imágenes sin match aceptado en el dataset.
+- Cálculo del ratio promedio del dataset final.
+- Comparación de tasas de match entre plates y completes.
+- Conteo de infracciones PENDIENTES sin evidencia visual.
+- Tratamiento de ausencia de matches y empates entre grupos.
 
 [Ejercicio 04]
 - Extracción de texto de imágenes con EasyOCR.
