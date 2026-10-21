@@ -1,5 +1,14 @@
 # Changelog - Port Log - Grupo 07
 
+[Ejercicio 03]
+- Fechas en formato YYYY-MM-DD; las inválidas se completan con 1900-01-01.
+- Horas en formato de 24 hs; las inválidas se completan con 00:00 y se marcan en columnas `*_valida`.
+- Columna `duracion_horas` (pd.NA si una fecha es inválida o el egreso es anterior al ingreso).
+- Matrículas y muelles sin caracteres especiales y en mayúsculas.
+- Eliminación de nulos en columnas críticas y de outliers por IQR.
+- Columnas `exceso_velocidad_real` y `exceso_velocidad` (tolerancia del 5%) y eliminación de filas sin infracción.
+- Dataset limpio en `data/interim` y resumen en `reports/summary_sprint1.csv`.
+
 [Ejercicio 02]
 - Descarga del dataset crudo en `port_log/data/raw/port_movements.csv`.
 - Visualización de las primeras y últimas filas.
