@@ -1,5 +1,8 @@
 # Changelog - Port Log - Grupo 07
 
+[Ejercicio 07]
+- Conclusión en `reports/conclusion.md` generada a partir de los resultados: calidad del dataset, patrones de infracción, impacto de migrar sin limpieza y propuestas de mejora.
+
 [Ejercicio 06]
 - Porcentaje de infracciones con fecha inválida y con hora inválida.
 - Tipo de carga más frecuente entre las infracciones.
