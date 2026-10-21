@@ -43,7 +43,5 @@
 - Implementación y prueba de la función `mostrar_muestra`.
 
 [Ejercicio 01]
-- Creación y checkout de rama `Sprint_2` a partir de `Sprint_1`.
-- Descarga y descompresión de imágenes en `port_log/data/raw/imgs`.
-- Verificación de accesibilidad de archivos base del Sprint 1.
-- Actualización de README.md con contexto y objetivos de Sprint 2.
+- Creación o selección de la rama `Sprint_3` desde `Sprint_2`.
+- Verificación de los cuatro datasets heredados y registro de sus cantidades y fechas de modificación.
