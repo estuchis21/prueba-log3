@@ -4,10 +4,11 @@
 - Conclusión en `reports/conclusion.md` generada a partir de los resultados: calidad del dataset, patrones de infracción, impacto de migrar sin limpieza y propuestas de mejora.
 
 [Ejercicio 06]
-- Porcentaje de infracciones con fecha inválida y con hora inválida.
-- Tipo de carga más frecuente entre las infracciones.
-- Origen más frecuente entre los buques infractores.
-- Duración promedio de estadía de los buques infractores.
+- Análisis de cobertura visual sobre las infracciones detectadas.
+- Comparación de desempeño de OCR entre subgrupos plates y completes.
+- Evaluación de impacto de condiciones de captura y sesgos de lectura.
+- Propuesta de mejoras técnicas de captura, preprocesamiento y matching.
+- Guardado de informe final en `port_log/reports/conclusion_sprint2.md`.
 
 [Ejercicio 05]
 - Conteo de infracciones con y sin imagen asociada.
