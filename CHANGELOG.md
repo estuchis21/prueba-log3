@@ -36,11 +36,9 @@
 - Inspección visual mediante `mostrar_muestra` en cada etapa.
 
 [Ejercicio 02]
-- Listado y cálculo de pesos en KB de imágenes.
-- Separación en subgrupos 'plates' y 'completes'.
-- Generación del archivo `port_log/data/interim/group_images.json`.
-- Cálculo de métricas promedio de resolución, área y peso.
-- Implementación y prueba de la función `mostrar_muestra`.
+- Versionado de imágenes originales con DVC: port_log/data/raw/imgs
+- Versionado de gráficos intermedios con DVC: port_log/data/interim/plots
+- Versionado del dataset procesado final con DVC: port_log/data/processed/port_movements_image.csv
 
 [Ejercicio 01]
 - Creación o selección de la rama `Sprint_3` desde `Sprint_2`.
