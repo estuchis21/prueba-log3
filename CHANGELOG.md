@@ -36,9 +36,9 @@
 - Inspección visual mediante `mostrar_muestra` en cada etapa.
 
 [Ejercicio 02]
-- Versionado de imágenes originales con DVC: port_log/data/raw/imgs
-- Versionado de gráficos intermedios con DVC: port_log/data/interim/plots
-- Versionado del dataset procesado final con DVC: port_log/data/processed/port_movements_image.csv
+- Imágenes originales: port_log/data/raw/imgs
+- Gráficos intermedios: port_log/data/interim/plots
+- Dataset procesado final: port_log/data/processed/port_movements_image.csv
 
 [Ejercicio 01]
 - Creación o selección de la rama `Sprint_3` desde `Sprint_2`.
